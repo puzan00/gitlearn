@@ -2,5 +2,5 @@ print("apple")
 print("banana")
 print("grapes")
 print("pineapple")
-print("strawberry")
+
 print("mango")
