@@ -1,1 +1,4 @@
-print("hello bro how  you")
+print("apple")
+print("banana")
+print("orange")
+print("pineapple")
